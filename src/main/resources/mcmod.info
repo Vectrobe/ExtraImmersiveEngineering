@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ExtraImmersiveEngineering",
+  "name": "ExtraImmersiveEngineering",
+  "description": "Add-on mod for BluSunrize's ImmersiveEngineering",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ExampleDude"],
+  "credits": "BluSunrize, Vectrobe (Paul17041993)",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
